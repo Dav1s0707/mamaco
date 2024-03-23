@@ -1,0 +1,50 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background: url("./monki-flip-monkey.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.centro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+h1{
+    font-weight: bolder;
+}
+
+.hh2{
+    background-image: linear-gradient(60deg, #ff0000, #1eff00, #008cff);
+    padding: 0;
+}
+
+h3{
+    text-align: center;
+    margin: 0 20%;
+    height: 100%;
+    background: -webkit-linear-gradient(#ff00bf, #48ff00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.mmarquee{
+    height: 100%;
+}
+
+
+img{
+  margin: 20px;
+}
+
+
+  
+
